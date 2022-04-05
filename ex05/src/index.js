@@ -12,10 +12,5 @@ compareStrictValues("21");
 compareStrictValues(12);
 compareStrictValues("Doe");
 
-console.log(compareStrictValues(55));
-console.log(compareStrictValues("55"));
-console.log(compareStrictValues("21"));
-console.log(compareStrictValues(12));
-console.log(compareStrictValues("Doe"));
 // Only change code above this line
 module.exports = compareStrictValues;

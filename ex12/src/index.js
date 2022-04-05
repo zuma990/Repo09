@@ -17,9 +17,7 @@ logicOrder(28);
 logicOrder(60);
 logicOrder(110);
 
-console.log(logicOrder(28));
-console.log(logicOrder(60));
-console.log(logicOrder(110));
+
 // Only change code above this line
 
 module.exports =logicOrder;
